@@ -1,4 +1,4 @@
-# api-lab5
+# pis-api-lab
 # Weather App з використанням OpenWeatherMap API
 
 Цей застосунок дозволяє отримувати поточну погоду в будь-якому місті світу за допомогою зовнішнього API від [OpenWeather]((https://openweathermap.org/current)).
